@@ -36,7 +36,7 @@ We were asked to analyze more information about temperature trends before the su
 
 - Then, the dataframe was combed to pull out the data about the temperature in December across all of the years provided.
 
-![Dec Temps](december_temps_summmary.png)
+![Dec Temps](december_temps_summary.png)
 
 
 There is a bulleted list that addresses the three key differences in weather between June and December. (6 pt)
