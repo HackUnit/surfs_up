@@ -30,22 +30,17 @@ We were asked to analyze more information about temperature trends before the su
 
 - First we used HTML elements to figure out where we needed to specifically locate data from scraped websites to arrive at certain data points.
 
-- First the supplied dataframe was combed to pull out data about the temperature in June across all of the years provided.
+- Then, supplied dataframe was combed to pull out data about the temperature in June across all of the years provided.
 
 ![June Temps](june_temps_summary.png)
 
-- Then, the dataframe was combed to pull out the data about the temperature in December across all of the years provided.
+- Also, the dataframe was combed to pull out the data about the temperature in December across all of the years provided.
 
 ![Dec Temps](december_temps_summary.png)
 
-
-There is a bulleted list that addresses the three key differences in weather between June and December. (6 pt)
-
 ## Summary:
 
-There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December. (5 pt
-
-After the temperature data was extracted, the precipitation data was then extracted from the dataset into a plot for examination for the two months.
+After the temperature data was extracted, the precipitation data was then extracted from the dataset into a plot for examination for the two separate months.
 
 - In June:
 
