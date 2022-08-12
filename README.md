@@ -1,6 +1,6 @@
 # surfs_up
 
-After making a strong business plan and reaching out to a renowned surfer; W.Avy, you were able to secure an investor on the premise you could provide the data to make a dream into a reality. The issue was weather for the investor. After extracting, compiling, converting, and parsing data from local weather stations, you deciphered a positive environment for the business plans. The next question was the differences between weather in June vs December.
+After making a strong business plan and reaching out to a renowned surfer; W.Avy, you were able to secure him as an investor on the premise you could provide the data to make a dream into a reality. The issue was weather for the investor. After extracting, compiling, converting, and parsing data from local weather stations, you deciphered a positive environment for the business plans. The next question was the differences between weather in June vs December.
 
 ## Overview of the statistical analysis:
 
