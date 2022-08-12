@@ -37,4 +37,4 @@ After the temperature data was extracted, the precipitation data was then extrac
 In comparison, the months of December experienced an increased amount of rain.
 
 
-The takeaway is as it is in the summer months. Cash in then while it's ideal, rebuild in the "off months". It would be ideal to begin construction in the month and day that was ideal; August, 23. Then, in the fall, winter, spring build and open for the summer after having hype through the weekend. Great launch-off based on weather.
+The takeaway is, as it is in the summer months, you should cash in then while it's ideal and (re)build in the "off months". It would be ideal to begin construction in the month and day that was ideal for the owner: August, 23. Then, in the fall, winter, spring you would begin building and openeing for the summer the year after, which would be proceeded with media hype. Great launch-off based on weather!
