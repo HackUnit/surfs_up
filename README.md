@@ -52,4 +52,7 @@ After the temperature data was extracted, the precipitation data was then extrac
 
 ![Dec Precipitation](december_prcp_summary.png)
 
-In comparison, the months of December experience
+In comparison, the months of December experienced an increased amount of rain.
+
+
+The takeaway is as it is in the summer months. Cash in then while it's ideal, rebuild in the "off months". It would be ideal to begin construction in the month and day that was ideal; August, 28. Then, in the fall, winter, spring build and open for the summer after having hype through the weekend. Great launch-off based on weather.
