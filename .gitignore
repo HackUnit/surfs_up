@@ -1,4 +1,7 @@
-# Ignoring app.py and copy  
+# Ignoring app.py and copy
+
+.swp
+
 app.py
 app_copy.py
 
