@@ -10,7 +10,7 @@ We were asked to analyze more information about temperature trends before the su
 
 ### The re-analyzed data resulted in the provided examples:
 
-- First, we used HTML elements to figure out where we needed to specifically locate data from scraped websites to arrive at certain data points.
+- First, we used Python to figure out where we needed to specifically locate data from a database through queries to arrive at certain data points.
 
 - Then, the created DataFrame was combed to pull out data about the temperature in June across all of the years provided.
 
